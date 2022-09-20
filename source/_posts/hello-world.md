@@ -5,6 +5,14 @@ Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [docume
 
 ## Quick Start
 
+![Alt this one works test2](/images/witch1.png)
+
+{% asset_img /images/witch1.png Alt Text %}
+
+![An Imgur Image](https://i.imgur.com/ucHPX7L.gif "An Imgur GIF")
+
+
+
 ### Create a new post
 
 ``` bash
